@@ -3,6 +3,8 @@ Hello! I'm Daniel. I'm a frontend web developer.  I take pride in helping my cli
 
 Beyond front-end coding, I’m also passionate about writing and sharing my thoughts on copywriting, and web optimization on my blog and other forums. I really value the ability to not only perform web development work but also help others improve their craft because I’ve gained so much from others sharing their skills and knowledge.
 
+![geekdaniel's github stats](https://github-readme-stats.vercel.app/api?username=geekdaniels&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 ## Find me around the web 🌎:
 - I write about JAMStack, Copywriting, Website Optimization, Sales, Search Engine Optimization, Developer Well being and a lot more on  <a href="https://www.olufemioladotun.com">this website</a> ✍🏾
