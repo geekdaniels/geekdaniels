@@ -1,6 +1,6 @@
 # Hi, I'm Olufemi Oladotun 👋🏾‍💻
 
-<img src="https://raw.githubusercontent.com/bygeekdaniels/bygeekdaniels/master/bygeekdaniels.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/geekdaniels/geekdaniels/master/geekdaniels.jpg" alt="banner that says I'm Olufemi Oladotun Daniel. web optimization specialist">
 Hello! I'm Daniel. I'm a frontend web developer.  I take pride in helping my clients build websites and web applications that bring sales, generate leads, is responsive, well optimized, accessible to all, and provides a great user experience. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. 
 
 Beyond front-end coding, I’m also passionate about writing and sharing my thoughts on copywriting, and web optimization on my blog and other forums. I really value the ability to not only perform web development work but also help others improve their craft because I’ve gained so much from others sharing their skills and knowledge.
